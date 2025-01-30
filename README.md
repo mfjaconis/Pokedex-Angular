@@ -1,27 +1,45 @@
-# Pokedex
+# Pokedex Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
+![Pokedex Angular](https://via.placeholder.com/800x400.png?text=Pokedex+Angular) 
 
-## Development server
+Uma aplicação Pokedex desenvolvida em Angular, que permite visualizar informações detalhadas sobre os Pokémon.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Funcionalidades
 
-## Code scaffolding
+- Listagem de Pokémon com imagens e informações básicas.
+- Pesquisa de Pokémon por nome ou número.
+- Detalhamento de um Pokémon específico, incluindo habilidades, tipos e estatísticas.
+- Interface responsiva para dispositivos móveis e desktops.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🛠️ Tecnologias Utilizadas
 
-## Build
+- **Angular**: Framework para desenvolvimento front-end.
+- **TypeScript**: Linguagem principal para escrever a aplicação.
+- **CSS**: Para estilização da interface.
+- **PokéAPI**: API externa utilizada para obter os dados dos Pokémon.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## 🌟 Pré-requisitos
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Certifique-se de ter as seguintes ferramentas instaladas:
 
-## Running end-to-end tests
+- **Node.js** (versão 16 ou superior)
+- **Angular CLI** (versão 15 ou superior)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 📦 Como Rodar o Projeto
 
-## Further help
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/mfjaconis/Pokedex-Angular.git
+   cd Pokedex-Angular
+2. Instale as dependências:
+   ```bash
+   npm install
+   
+3. Inicie o servidor de desenvolvimento:
+   ```bash
+   ng serve
+   
+4. Acesse a aplicação no navegador: http://localhost:4200
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
