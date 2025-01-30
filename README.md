@@ -1,7 +1,5 @@
 # Pokedex Angular
 
-![Pokedex Angular](https://via.placeholder.com/800x400.png?text=Pokedex+Angular) 
-
 Uma aplicação Pokedex desenvolvida em Angular, que permite visualizar informações detalhadas sobre os Pokémon.
 
 ## 🚀 Funcionalidades
